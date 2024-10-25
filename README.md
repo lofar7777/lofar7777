@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lofar7777
-- (lokesh farswan)
+- (lo-kesh far-swan)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java, javascript and react
 - 💞️ I’m working on a blog app with MERN stack
